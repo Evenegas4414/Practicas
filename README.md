@@ -1,12 +1,10 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png?raw=true)
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png?raw=true)
+<img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png">
   <h3 align="center">Practicas</h3>
 
   <p align="center">
