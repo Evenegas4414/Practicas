@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-
+![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png?raw=true)
   <h3 align="center">Practicas</h3>
 
   <p align="center">
