@@ -1,5 +1,4 @@
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
@@ -56,11 +55,9 @@ Lista que muestra las tecnologias empleadas:
 ### Descargas
 
 - Descargar .zip por Github.
-   ```
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
-<!-- CONTACT -->
 ## Contacto
 
 Exequiel Venegas - evenegas4414@gmail.com
