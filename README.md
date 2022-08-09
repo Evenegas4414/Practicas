@@ -1,5 +1,6 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_256x256.png?raw=true)
 
 
 <!-- PROJECT LOGO -->
